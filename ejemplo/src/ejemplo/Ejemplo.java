@@ -21,6 +21,7 @@ public class Ejemplo {
         System.out.println("HOlA MUNDO 3");
          System.out.println("HOlA MUNDO 3");
         //Hola chipi
+        System.out.println("vamos a empezar el proyecto");
     }
     
 }
