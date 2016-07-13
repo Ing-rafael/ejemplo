@@ -17,6 +17,7 @@ public class Ejemplo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.printf("Hola Mundo");
+        System.out.println("HOlA MUNDO 2");
     }
     
 }
